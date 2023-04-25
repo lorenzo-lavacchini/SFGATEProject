@@ -32,3 +32,35 @@
 .mostPopularTitle{
     font-size: 0.950em;
 }
+
+.author{
+    font-size: 0.800em;
+}
+
+.sezioneRiquadrata{
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+
+.littleParagraph{
+    font-size: 0.850em;
+}
+
+.footer{
+    background-color: #e7e7e7;
+    height: 390px;
+}
+
+.groupOfIcons{
+    width: 70px;
+}
+
+.icon{
+    color: black;
+}
+
+.returnToTop{
+    text-decoration: none;
+    color: black;
+}
