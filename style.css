@@ -45,7 +45,7 @@
 }
 
 .littleParagraph{
-    font-size: 0.850em;
+    font-size: 0.950em;
 }
 
 .footer{
@@ -119,24 +119,7 @@
     margin-top: 80px;
 }
 
-.sec{
-    display: block;
-}
 
-.secbox-img{
-    z-index: 5;
-    display: block;
-}
-
-.secbox-text{
-    z-index: 1;
-    display: block;
-    margin-top: -35%;
-    margin-left: 60%;
-    background-color: #d1182b;
-    padding: 60px;
-
-}
 
 #img1, #img2{
     box-shadow: black 0px 0px 10px;
@@ -145,4 +128,9 @@
 .redBackground{
     z-index: -1;
     margin-left: -20px;
+}
+
+.linkMenu{
+    text-decoration: none;
+    color:#212529;
 }
