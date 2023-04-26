@@ -1,6 +1,7 @@
 .header{
     height:80px;
     background-color:#ffffff;
+    border-bottom: 1px solid #b6b6b6;
 }
 .hr{
     border-color: gray;
@@ -103,4 +104,45 @@
     color: white;
     text-decoration: none;
     font-size: 0.760em
+}
+
+.img {
+    z-index: 0; }
+
+.text-over-img {
+    z-index:1;
+    font-size: 1.2em;
+    margin-top: -100px;
+}
+
+.mt-head{
+    margin-top: 80px;
+}
+
+.sec{
+    display: block;
+}
+
+.secbox-img{
+    z-index: 5;
+    display: block;
+}
+
+.secbox-text{
+    z-index: 1;
+    display: block;
+    margin-top: -35%;
+    margin-left: 60%;
+    background-color: #d1182b;
+    padding: 60px;
+
+}
+
+#img1, #img2{
+    box-shadow: black 0px 0px 10px;
+}
+
+.redBackground{
+    z-index: -1;
+    margin-left: -20px;
 }
