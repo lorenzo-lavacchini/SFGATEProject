@@ -119,18 +119,17 @@
     margin-top: 80px;
 }
 
-
-
-#img1, #img2{
-    /*box-shadow: black 0px 0px 10px;*/
-}
-
 .redBackground{
     z-index: -1;
     margin-left: -20px;
 }
 
 .linkMenu{
+    text-decoration: none;
+    color:#212529;
+}
+
+.paragraphLink{
     text-decoration: none;
     color:#212529;
 }
